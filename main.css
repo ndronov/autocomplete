@@ -1,6 +1,6 @@
 .main {
     display: flex;
-    flex-direction: column;
+    flex-flow: column;
     align-items: flex-start;
     font-family: Helvetica, sans-serif;
 }
